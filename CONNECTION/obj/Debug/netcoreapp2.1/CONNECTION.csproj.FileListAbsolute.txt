@@ -1,0 +1,14 @@
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\bin\Debug\netcoreapp2.1\CONNECTION.deps.json
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\bin\Debug\netcoreapp2.1\CONNECTION.runtimeconfig.json
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\bin\Debug\netcoreapp2.1\CONNECTION.runtimeconfig.dev.json
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\bin\Debug\netcoreapp2.1\CONNECTION.dll
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\bin\Debug\netcoreapp2.1\CONNECTION.pdb
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.RazorAssemblyInfo.cache
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.RazorAssemblyInfo.cs
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.AssemblyInfoInputs.cache
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.AssemblyInfo.cs
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.RazorTargetAssemblyInfo.cache
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.dll
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.pdb
+C:\Users\neto_\Desktop\Projetos\Web\Backend\CONNECTION\CONNECTION\obj\Debug\netcoreapp2.1\CONNECTION.csprojAssemblyReference.cache
